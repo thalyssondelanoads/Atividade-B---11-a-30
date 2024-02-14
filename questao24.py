@@ -1,0 +1,6 @@
+print('Transformar M para Cm')
+print('------')
+M = float(input('Qual o valor em M? : '))
+Cm = int(M* 100)
+print('------')
+print(f'O resultado é {Cm} Centímetros ! ')
