@@ -1,7 +1,9 @@
-#Solicita os Valores ao Usuário!
+#Entrada do Código!
 
 print('Calcule a distância entre 2 pontos no plano !')
 print('-----')
+
+#Solicita os Valores ao Usuário!
 
 print('Informe as coordenadas de x1 e y1')
 x1 = float(input('x1: '))
