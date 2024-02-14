@@ -1,4 +1,4 @@
-print('Calcular distância entre 2 pontos no plano !')
+print('Calcule a distância entre 2 pontos no plano !')
 print('-----')
 
 print('Informe as coordenadas de x1 e y1')
