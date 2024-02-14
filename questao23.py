@@ -1,0 +1,6 @@
+print('Transformar Kg para G')
+print('------')
+kg = float(input('Qual o valor em Kg? : '))
+G = int(kg * 1000)
+print('------')
+print(f'O resultado é {G} Gramas ! ')
