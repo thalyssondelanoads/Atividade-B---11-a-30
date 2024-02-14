@@ -1,0 +1,6 @@
+print('Transformar °F em °C')
+print('------')
+F = float(input('Qual a temperatura em °F? : '))
+C = int((5 * F - 160)/9)
+print('-----')
+print(f'{F} °F são aproximadamente {C} °C ! ')
