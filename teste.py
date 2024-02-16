@@ -1,4 +1,3 @@
-
 print('Calcule a distância entre 2 pontos no plano!')
 print('__________')
 
