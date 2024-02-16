@@ -1,4 +1,4 @@
-print('Inventer um número inteiro')
+print('Inventer um número inteiro de 3 dígitos')
 print('---------')
 print('O número precisa ter 3 dígitos')
 print('---------')
