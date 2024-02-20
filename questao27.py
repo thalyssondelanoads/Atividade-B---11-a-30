@@ -1,7 +1,7 @@
 print('Transformar segundos em Horas,Minutos e Segundos')
 print('----------')
 
-total_segundos = int(input("Digite o número de segundos: "))
+total_segundos = int(input('Digite o número de segundos: '))
 
 horas = total_segundos // 3600
 minutos = (total_segundos % 3600) // 60
