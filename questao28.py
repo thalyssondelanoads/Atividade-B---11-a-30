@@ -2,7 +2,7 @@ print('Transformar Horas em Semanas,Dias e Horas')
 print('------------')
 total_horas = int(input('Digite o número de horas: '))
 
-semanas = total_horas // 168  # 1 semana = 7 dias * 24 horas
+semanas = total_horas // 168
 dias = (total_horas % 168) // 24
 horas = total_horas % 24
 
